@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Computer Engineering student | Curious mind<br>💻 Love tinkering with systems — from low-level C/C++ to full-stack web<br>🚀 Currently building with: Kotlin, Spring Boot, PostgreSQL, Godot<br>🎮 Indie game dev enthusiast | Exploring narrative design & mechanics<br>📦 Passionate about clean architecture, open source, and self-hosting<br>🌐 Learning by doing — one project at a time<br>🧠 Believer in thoughtful tech for real-world impact
+🎓 Backend Developer | Curious mind<br>💻 Love tinkering with systems — from low-level C/C++ to full-stack web<br>🚀 Currently building with: Kotlin, Spring Boot, PostgreSQL, Godot<br>🎮 Indie game dev enthusiast | Exploring narrative design & mechanics<br>📦 Passionate about clean architecture, open source, and self-hosting<br>🌐 Learning by doing — one project at a time<br>🧠 Believer in thoughtful tech for real-world impact
 
 
 ## 🌐 Socials:
