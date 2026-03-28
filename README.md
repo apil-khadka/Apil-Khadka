@@ -33,8 +33,10 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&width=800&height=auto)
 
-### 🔝 Contribution Activity
-![](https://github-readme-activity-graph.vercel.app/graph?username=apil-khadka&theme=tokyo-night&hide_border=true)
+### 📈 Contribution Activity
+![](https://github-readme-activity-graph.vercel.app/graph?username=apil-khadka&theme=tokyo-night&hide_border=true&days=365)
+
+
 ---
 
 [![](https://visitcount.itsvg.in/api?id=apil-khadka&icon=2&color=9)](https://visitcount.itsvg.in)
